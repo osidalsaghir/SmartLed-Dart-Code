@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658040982903",
+    "firebase_url": "https://arduinoled-bde68.firebaseio.com",
+    "project_id": "arduinoled-bde68",
+    "storage_bucket": "arduinoled-bde68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658040982903:android:5e3d70c82aac3f4bc2e572",
+        "android_client_info": {
+          "package_name": "com.arduinoled.arduinoled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658040982903-rvcjrb0dgogiuuuhl1i244hehi4dcjke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFFODkt9Uohu-IJ7LxpFMKxtjsex-GJGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658040982903-rvcjrb0dgogiuuuhl1i244hehi4dcjke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
